@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title> Gold tracker</title>
+      <link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+  </head>
+  <body>
+
+    <p>GOLD TRACKER</p>
+    <br>
+      <form action="goudprijs" method="get">
+          <p> Whats the price?</p>
+          <br>
+          <p><h4>Price : <h4/> {{ price }}
+
+          <input type="submit" value="Update" id="buttonprijs"> 
+      </form>
+  </body>
+</html> 
