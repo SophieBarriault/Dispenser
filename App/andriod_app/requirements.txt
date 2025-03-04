@@ -1,0 +1,8 @@
+kivy
+pytesseract
+sqlite3
+requests
+plyer 
+os 
+opencv 
+pillow 
