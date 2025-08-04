@@ -12,7 +12,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # BioPredict: Regression Models for Synthetic Biology
 
-BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance. This is an archive of the project. 
+This project is an AI-powered automatic medication dispenser designed to improve medication adherence using a combination of image recognition, OCR, and natural language processing. The system is built for patients, caregivers, and healthcare providers to ensure safe and timely medication intake — all while being monitored remotely through a mobile app.
+
+It integrates hardware control (Arduino), YOLO-based pill recognition, and a custom-trained spaCy NLP model to extract dosage and frequency instructions from prescription labels. A PyQt6 desktop interface manages the system on-device, and a mobile app enables remote supervision. 
 
 [![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)
@@ -173,5 +175,6 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
