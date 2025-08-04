@@ -1,1 +1,175 @@
-OK
+<!--
+Hey, thanks for using the awesome-readme-template template.  
+If you have any enhancements, then fork this project and create a pull request 
+or just open an issue with the label "enhancement".
+
+Don't forget to give this project a star for additional support ;)
+Maybe you can mention me or this repo in the acknowledgements too
+-->
+<div align="center">
+
+![Logo](assets/Biopredict_Visual.png)
+
+# BioPredict: Regression Models for Synthetic Biology
+
+BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance. This is an archive of the project. 
+
+[![Contributors](https://img.shields.io/github/contributors/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)
+[![Forks](https://img.shields.io/github/forks/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/network/members)
+[![Stars](https://img.shields.io/github/stars/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/stargazers)
+[![Issues](https://img.shields.io/github/issues/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/issues)
+[![License](https://img.shields.io/github/license/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.svg)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/blob/main/LICENSE)
+
+[View Demo](https://github.com/sophiebarriault/BioPredict) ·
+[Documentation](https://github.com/sophiebarriault/BioPredict) ·
+[Report Bug](https://github.com/sophiebarriault/BioPredict/issues) ·
+[Request Feature](https://github.com/sophiebarriault/BioPredict/issues)
+
+</div>
+
+---
+
+# 📔 Table of Contents
+
+- [About the Project](#-about-the-project)
+  - [Screenshots](#-screenshots)
+  - [Tech Stack](#-tech-stack)
+  - [Features](#-features)
+  - [Color Reference](#-color-reference)
+  - [Environment Variables](#-environment-variables)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#-prerequisites) 
+  - [Run Locally](#-run-locally)
+  - [Deployment](#-deployment) 
+- [FAQ](#-faq)
+- [License](#-license)
+- [Contact](#-contact)
+- [Acknowledgements](#-acknowledgements-) 
+
+
+---
+
+## 🌟 About the Project
+
+BioPredict was originally developed in response to a request from Boston University’s iGEM team to build predictive models that could evaluate the performance of their project components. These models were initially used to generate scores based on user interactions with their hardware and applications. Since then, the project has evolved to focus more broadly on modeling biological data and generating predictive insights to support synthetic biology research.
+
+---
+
+### 📷 Screenshots
+
+![Screenshot Placeholder](assets/Example_1.png)
+
+---
+
+### 👾 Tech Stack
+
+- **Python** – Core programming language  
+- **scikit-learn** – Regression modeling  
+- **pandas** – Data handling  
+- **NumPy** – Numerical operations  
+- **matplotlib** / **seaborn** – Data visualization 
+- **Git & GitHub** – Version control and collaboration 
+
+---
+
+### 🎯 Features
+
+- Predict binary outcomes with logistic regression
+- Predict continuous outcomes with linear regression
+- Flexible retraining for your own synthetic biology dataset
+
+---
+
+### 🎨 Color Reference
+
+| Color             | Hex        |
+| ----------------- | ---------- |
+| Primary Color     | `#0074d9`  |
+| Secondary Color   | `#00e0ff`  |
+| Accent Color      | `#ffffff`  |
+| Text Color        | `#00e0ff`  |
+
+---
+
+### 🔑 Environment Variables
+
+To run this project, add the following to your `.env` file:
+
+
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Prerequisites -->
+### :bangbang: Prerequisites
+
+This project uses NumPy, Pandas, Matplotlib, and Sklearn 
+
+```bash
+ pip install numpy 
+ pip install pandas
+ pip install matplotlib
+ pip install scikit-learn 
+```
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.git
+```
+
+Go to the project directory
+
+```bash
+  cd BioPredict-Regression-Models-for-Synthetic-Biology 
+```
+
+Install dependencies
+
+```bash
+  pip install numpy 
+  pip install pandas
+  pip install matplotlib
+  pip install scikit-learn 
+```
+
+<!-- Deployment -->
+### :triangular_flag_on_post: Deployment
+
+To deploy this project run: 
+
+```bash
+  python BioPredict-Regression-Models-for-Synthetic-Biology 
+```
+ 
+
+
+
+ 
+<!-- Contact -->
+## :handshake: Contact
+
+Sophie Barriault - [Linkedin](www.linkedin.com/in/sophie-barriault) - sophiebarriaultofficial@gmail.com 
+
+Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements 
+
+Useful resources and libraries that I've used in my project: 
+
+
+ - [Scikit-learn](https://scikit-learn.org/stable/) 
+ - [Pandas](https://pandas.pydata.org/) 
+ - [NumPy](https://numpy.org/) 
+ - [Matplotlib](https://matplotlib.org/) 
+ - [Logisitc Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
+ - [Linear Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/) 
+ - [Shields.io](https://shields.io/)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+ - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
