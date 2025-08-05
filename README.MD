@@ -273,16 +273,12 @@ Project Link: [https://github.com/SophieBarriault/Dispenser/tree/main](https://g
 Useful resources and libraries that I've used in my project: 
 
 
- - [Scikit-learn](https://scikit-learn.org/stable/) 
- - [Pandas](https://pandas.pydata.org/) 
- - [NumPy](https://numpy.org/) 
- - [Matplotlib](https://matplotlib.org/) 
- - [Logisitc Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
- - [Linear Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/) 
+ - Link to all technical sources used: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW?usp=drive_link 
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
