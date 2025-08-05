@@ -68,12 +68,16 @@ This project presents an AI-powered automatic medication dispenser designed to i
 
  - Mobile + Desktop interface (via Toga framework) for caregiver monitoring and remote updates.
 
- - Video evidence recording for accountability and patient monitoring.
+ - Video evidence recording for accountability and patient monitoring. 
+
 
 **Goal:**
 To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members.
 
-**Recognition:** 
+**Recognition:**  
+
+ - Filed for a provisional patent for the design and idea December 2024 
+
  - Selected for the Massachusetts Science & Engineering Fair (MSEF) Regional Round
 
  - Advanced to the MSEF State Level Competition as a Finalist
@@ -201,6 +205,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
