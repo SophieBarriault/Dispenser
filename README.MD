@@ -26,7 +26,7 @@ All the resources I used for this project can be found in the following Google D
 [![License](https://img.shields.io/github/license/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.svg)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) ·
-[Documentation](https://github.com/sophiebarriault/BioPredict) ·
+[Documentation](https://github.com/SophieBarriault/Dispenser/blob/main/README.MD)  ·
 [Report Bug](https://github.com/SophieBarriault/Dispenser/issues) ·
 [Request Feature](https://github.com/SophieBarriault/Dispenser/issues)
 
@@ -254,6 +254,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
