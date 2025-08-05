@@ -215,12 +215,20 @@ Install dependencies
 <!-- Deployment -->
 ### :triangular_flag_on_post: Deployment
 
-To deploy this project run: 
+To deploy the mobile application simulation software, run: 
 
-```bash
-  python BioPredict-Regression-Models-for-Synthetic-Biology 
+```bash 
+  cd Dispenser/App/andriod_app
+  python app.py 
 ```
- 
+
+To deploy the medication dispenser software, run: 
+
+```bash 
+  cd Dispenser/App
+  python App_For_Monitering.py 
+``` 
+
 
 
 
@@ -249,6 +257,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
