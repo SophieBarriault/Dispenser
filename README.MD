@@ -104,12 +104,25 @@ Click to watch the demo here!
 
 ### 👾 Tech Stack
 
-- **Python** – Core programming language  
-- **scikit-learn** – Regression modeling  
-- **pandas** – Data handling  
-- **NumPy** – Numerical operations  
-- **matplotlib** / **seaborn** – Data visualization 
-- **Git & GitHub** – Version control and collaboration 
+- **Python** – Core programming language for the application
+
+- **Toga** – GUI framework for building cross-platform desktop and mobile apps
+
+- **OpenCV** – Real-time image processing and integration with camera for pill verification
+
+- **Tesseract OCR** – Optical Character Recognition for extracting text from prescriptions
+
+- **spaCy** – Custom Named Entity Recognition (NER) model to extract dosage/frequency info
+
+- **YOLOv8** – Object detection model to monitor pill intake and hand movement
+
+- **Flask** – Lightweight server to handle requests between the app and ML models
+
+- **PySerial** – Communication between the Python app and the Arduino board
+
+- **Arduino** – Controls pill dispensing mechanism (via servo motors, etc.)
+
+- **Git & GitHub** – Version control and project collaboration
 
 ---
 
@@ -213,6 +226,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
