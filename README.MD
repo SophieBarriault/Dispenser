@@ -156,18 +156,9 @@ Click to watch the demo here!
   Extracted text from prescriptions is automatically saved and compiled into a downloadable PDF for easy recordkeeping and sharing with healthcare providers.
 
 
----
+--- 
 
-### 🎨 Color Reference
 
-| Color             | Hex        |
-| ----------------- | ---------- |
-| Primary Color     | `#0074d9`  |
-| Secondary Color   | `#00e0ff`  |
-| Accent Color      | `#ffffff`  |
-| Text Color        | `#00e0ff`  |
-
----
 
 ### 🔑 Environment Variables
 
@@ -278,6 +269,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
