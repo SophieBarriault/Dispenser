@@ -56,7 +56,31 @@ All the resources I used for this project can be found in the following Google D
 
 ## 🌟 About the Project
 
-BioPredict was originally developed in response to a request from Boston University’s iGEM team to build predictive models that could evaluate the performance of their project components. These models were initially used to generate scores based on user interactions with their hardware and applications. Since then, the project has evolved to focus more broadly on modeling biological data and generating predictive insights to support synthetic biology research.
+This project presents an AI-powered automatic medication dispenser designed to improve medication adherence and safety for patients. Initially developed for the Massachusetts Science & Engineering Fair (MSEF), the device advanced to the State Level Finalist round, where it was recognized for its innovative integration of machine learning, computer vision, and IoT technologies in a healthcare setting.
+
+**Core Features:**
+
+ - Image recognition model to verify whether medication has been taken correctly.
+
+ - OCR + NLP (Named Entity Recognition) to extract dosage instructions from prescription labels.
+
+ - Arduino-controlled dispensing system triggered by AI verification and scheduled reminders.
+
+ - Mobile + Desktop interface (via Toga framework) for caregiver monitoring and remote updates.
+
+ - Video evidence recording for accountability and patient monitoring.
+
+**Goal:**
+To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members.
+
+**Recognition:** 
+ - Selected for the Massachusetts Science & Engineering Fair (MSEF) Regional Round
+
+ - Advanced to the MSEF State Level Competition as a Finalist
+
+ - Praised for its real-world impact, interdisciplinary approach, and scalable potential
+
+
 
 ---
 
@@ -177,6 +201,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
