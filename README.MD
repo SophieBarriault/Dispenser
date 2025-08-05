@@ -56,7 +56,14 @@ All the resources I used for this project can be found in the following Google D
 
 ## 🌟 About the Project
 
-This project presents an AI-powered automatic medication dispenser designed to improve medication adherence and safety for patients. Initially developed for the Massachusetts Science & Engineering Fair (MSEF), the device advanced to the State Level Finalist round, where it was recognized for its innovative integration of machine learning, computer vision, and IoT technologies in a healthcare setting.
+This project presents an AI-powered automatic medication dispenser designed to improve medication adherence and safety for patients. Initially developed for the Massachusetts Science & Engineering Fair (MSEF), the device advanced to the State Level Finalist round, where it was recognized for its innovative integration of machine learning, computer vision, and IoT technologies in a healthcare setting. 
+
+
+**Goal:**
+
+To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members. 
+
+
 
 **Core Features:**
 
@@ -71,8 +78,6 @@ This project presents an AI-powered automatic medication dispenser designed to i
  - Video evidence recording for accountability and patient monitoring. 
 
 
-**Goal:**
-To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members.
 
 **Recognition:**  
 
@@ -205,6 +210,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
