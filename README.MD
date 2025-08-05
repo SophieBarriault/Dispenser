@@ -23,7 +23,7 @@ All the resources I used for this project can be found in the following Google D
 [![Forks](https://img.shields.io/github/forks/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/network/members)
 [![Stars](https://img.shields.io/github/stars/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/stargazers)
 [![Issues](https://img.shields.io/github/issues/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/issues)
-[![License](https://img.shields.io/github/license/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.svg)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/SophieBarriault/Dispenser.svg)](https://github.com/SophieBarriault/Dispenser/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) ·
 [Documentation](https://github.com/SophieBarriault/Dispenser/blob/main/README.MD)  ·
@@ -254,6 +254,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
