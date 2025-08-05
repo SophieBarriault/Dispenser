@@ -37,7 +37,7 @@ All the resources I used for this project can be found in the following Google D
 # 📔 Table of Contents
 
 - [About the Project](#-about-the-project)
-  - [Screenshots](#-screenshots)
+  - [Demo Video](#-screenshots)
   - [Tech Stack](#-tech-stack)
   - [Features](#-features)
   - [Color Reference](#-color-reference)
@@ -254,6 +254,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
