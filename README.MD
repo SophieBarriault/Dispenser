@@ -10,7 +10,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ![Logo](assets/Biopredict_Visual.png)
 
-# BioPredict: Regression Models for Synthetic Biology
+# Automatic Medication Dispenser In Order To Reduce Medication Non-Adherence  
 
 This project is an AI-powered automatic medication dispenser designed to improve medication adherence using a combination of image recognition, OCR, and natural language processing. The system is built for patients, caregivers, and healthcare providers to ensure safe and timely medication intake — all while being monitored remotely through a mobile app.
 
@@ -177,6 +177,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
