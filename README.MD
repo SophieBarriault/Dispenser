@@ -19,10 +19,10 @@ It integrates hardware control (Arduino), YOLO-based pill recognition, and a cus
 All the resources I used for this project can be found in the following Google Drive, linked for your reference: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW 
 
 [![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)
-[![Forks](https://img.shields.io/github/forks/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/network/members)
-[![Stars](https://img.shields.io/github/stars/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/stargazers)
-[![Issues](https://img.shields.io/github/issues/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology)](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser)
+[![Forks](https://img.shields.io/github/forks/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/network/members)
+[![Stars](https://img.shields.io/github/stars/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/stargazers)
+[![Issues](https://img.shields.io/github/issues/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/issues)
 [![License](https://img.shields.io/github/license/SophieBarriault/Dispenser.svg)](https://github.com/SophieBarriault/Dispenser/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) ·
@@ -254,6 +254,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
