@@ -97,7 +97,7 @@ To create an accessible, intelligent system that ensures patients take the corre
 
 Click to watch the demo here! 
 
-[![Watch the Demo Video]assets/to_demo.png)](https://drive.google.com/file/d/1SxiEY-zdLD93sdu3rUTSQwIwzmrzS_ga/view?usp=sharing) 
+[![Watch the Demo Video](assets/to_demo.png)](https://drive.google.com/file/d/1SxiEY-zdLD93sdu3rUTSQwIwzmrzS_ga/view?usp=sharing) 
 
 ---
 
@@ -212,6 +212,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
