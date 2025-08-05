@@ -18,6 +18,10 @@ It integrates hardware control (Arduino), YOLO-based pill recognition, and a cus
 
 All the resources I used for this project can be found in the following Google Drive, linked for your reference: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW 
 
+
+**This project is not currently licensed for use or redistribution. All rights reserved.**
+
+
 [![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser)
 [![Forks](https://img.shields.io/github/forks/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/network/members)
@@ -30,11 +34,6 @@ All the resources I used for this project can be found in the following Google D
 [Report Bug](https://github.com/SophieBarriault/Dispenser/issues) ·
 [Request Feature](https://github.com/SophieBarriault/Dispenser/issues)
 
-
-
-## License
-
-This project is not currently licensed for use or redistribution. All rights reserved.
  
 </div>
 
@@ -267,6 +266,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
