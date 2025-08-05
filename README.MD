@@ -207,11 +207,9 @@ Go to the project directory
 
 Install dependencies
 
-```bash
-  pip install numpy 
-  pip install pandas
-  pip install matplotlib
-  pip install scikit-learn 
+```bash 
+  cd Dispenser 
+  pip install -r requirements.txt 
 ```
 
 <!-- Deployment -->
@@ -251,6 +249,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
