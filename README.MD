@@ -182,13 +182,11 @@ To run this project, add the following to your `.env` file:
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses NumPy, Pandas, Matplotlib, and Sklearn 
+This project uses a variety of modules and libraries 
 
 ```bash
- pip install numpy 
- pip install pandas
- pip install matplotlib
- pip install scikit-learn 
+ cd Dispenser 
+ pip install -r requirements.txt 
 ```
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -196,19 +194,18 @@ This project uses NumPy, Pandas, Matplotlib, and Sklearn
 Clone the project
 
 ```bash
-  git clone https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.git
+  git clone https://github.com/SophieBarriault/Dispenser.git 
 ```
 
 Go to the project directory
 
 ```bash
-  cd BioPredict-Regression-Models-for-Synthetic-Biology 
+  cd Dispenser 
 ```
 
 Install dependencies
 
 ```bash 
-  cd Dispenser 
   pip install -r requirements.txt 
 ```
 
@@ -257,6 +254,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
