@@ -95,7 +95,7 @@ To create an accessible, intelligent system that ensures patients take the corre
 
 ### 📷 Screenshots
 
-![Screenshot Placeholder](https://github.com/SophieBarriault/Dispenser/blob/main/assets/demo_video.mp4)
+assets/demo_video.mp4 
 
 ---
 
@@ -210,6 +210,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
