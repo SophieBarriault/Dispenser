@@ -46,8 +46,7 @@ All the resources I used for this project can be found in the following Google D
   - [Prerequisites](#-prerequisites) 
   - [Run Locally](#-run-locally)
   - [Deployment](#-deployment) 
-- [FAQ](#-faq)
-- [License](#-license)
+- [FAQ](#-faq) 
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements-) 
 
@@ -226,6 +225,36 @@ To deploy the medication dispenser software, run:
   python App_For_Monitering.py 
 ``` 
 
+<!-- FAQ -->
+## :grey_question: FAQ
+
+- **Who is the project designed for?** 
+
+  + It’s primarily designed for elderly patients, individuals with memory challenges, high-risk patients, such as those recovering from an addition, under-staffed healthcare facilities, and caretakers who need remote monitoring tools for medication adherence/patients who live alone.
+
+- **How is medication intake verified?** 
+
+  + The image model uses a 3-step detection process:
+
+    1. Detects the presence of a pill
+
+    2. Checks if it’s picked up
+
+    3. Confirms the hand is empty (pill was consumed). 
+      If not, an alert is triggered. 
+
+
+- **How does the dispenser work?** 
+
+  + A built-in camera detects if a pill is taken using a YOLO image recognition model.
+
+  + OCR and NER extract dosage info from prescription labels.
+
+  + The system activates an Arduino-controlled dispenser and verifies intake.
+
+  + Caretakers can view updates via a mobile app.
+
+
 
 
 
@@ -254,6 +283,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
