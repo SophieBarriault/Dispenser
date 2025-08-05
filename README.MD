@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-![Logo](assets/Biopredict_Visual.png)
+![Logo](assets/Hardware_Image_1.png)
 
 # Automatic Medication Dispenser In Order To Reduce Medication Non-Adherence  
 
@@ -201,6 +201,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
